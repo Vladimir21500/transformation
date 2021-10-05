@@ -1,13 +1,11 @@
 * {
   box-sizing: border-box;
 }
-.container {
+body {
   display: flex;
-  align-items: center;
-  justify-content: center;
   height: 100vh;
 }
-.spinner {
+.container {
   margin: auto;
 }
 .spinner-text {
