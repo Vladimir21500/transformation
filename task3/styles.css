@@ -15,7 +15,6 @@
   animation: blinking 2s infinite linear;
 }
 .circle {
-  margin: auto;
   height: 50px;
   width: 50px;
   border-radius: 25px;
